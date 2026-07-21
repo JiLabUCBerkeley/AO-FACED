@@ -4,7 +4,7 @@ MATLAB and Python analysis code used to process and compare adaptive-optics (AO)
 
 ## Main workflows
 
-### Vessel images and line profiles
+### 3D stacks, vessel images and line profiles
 
 1. Run `caiman_register_tiff_stack.py` to motion-correct TIFF stacks with CaImAn.
 2. Run `StackCompare_Motion_corr_M507_data1.m` to align AO and NoAO volumes, crop matched regions, and prepare structural projections.
