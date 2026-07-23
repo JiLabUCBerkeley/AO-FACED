@@ -1,4 +1,4 @@
-# AO-FACED Manuscript Analysis
+# AO-FACED Data Analysis
 
 MATLAB and Python analysis code used to process and compare adaptive-optics (AO) and system-AO/NoAO FACED microscopy data. The repository contains manuscript figure scripts for 3D bead characterization, in vivo 3D imaging, vessel structure and blood flow, glutamate responses, and deformable-mirror characterization.
 
